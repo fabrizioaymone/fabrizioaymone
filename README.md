@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 📫 How to reach me **fabrizio.aymone@gmail.com**
+- 📫 How to reach me **fabriziomaria.aymone@mail.polimi.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
