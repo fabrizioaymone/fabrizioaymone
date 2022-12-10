@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrizioaymone&show_icons=true&locale=en&layout=compact" alt="fabrizioaymone" /></p>
 
-<p>&nbsp;<img align="right" height=10 src="https://github-readme-stats.vercel.app/api?username=fabrizioaymone&show_icons=true&locale=en" alt="fabrizioaymone" /></p>
+<p>&nbsp;<img align="right" width="200" src="https://github-readme-stats.vercel.app/api?username=fabrizioaymone&show_icons=true&locale=en" alt="fabrizioaymone" /></p>
