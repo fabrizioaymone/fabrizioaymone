@@ -1,6 +1,6 @@
 [![MasterHead](https://images.wallpapersden.com/image/download/intel-cpu-processor_Z2hmZ22UmZqaraWkpJRnamtlrWZlbWU.jpg)](https://github.com/fabrizioaymone)
 <h1 align="center">Hi 👋, I'm Fabrizio Aymone</h1>
-<h3 align="center">Electronical Engineering student passionate about machine learning and neuromorphic computing.</h3>
+<h3 align="center">Electronics Engineering student passionate about machine learning and neuromorphic computing.</h3>
 <img align="right" alt="Coding" width="250" src="https://d33wubrfki0l68.cloudfront.net/23d4816944f8abdd7c8af2b694e4b32e93b9d985/9b991/images/ising.gif">
 
 
