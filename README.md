@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="250" src="https://d33wubrfki0l68.cloudfront.net/23d4816944f8abdd7c8af2b694e4b32e93b9d985/9b991/images/ising.gif">
 
 
-- 🔭 I’m currently working on **Deep Belief networks**
+- 🔭 I’m currently working on **Forward-Forward Algorithm**
 
 - 🌱 I’m currently learning **Computer Vision**
 
