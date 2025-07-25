@@ -1,4 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fcircuits-silicon-wafer-wallpaper-blxcs&psig=AOvVaw3s8EKmJF5r4asl8Pp6Arwo&ust=1753555766909000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCID0y7fW2I4DFQAAAAAdAAAAABAU)](https://github.com/fabrizioaymone)
+<a href="https://github.com/fabrizioaymone">
+  <img src="https://www.accademiasei.it/images/corsi/elettronica.jpg" alt="MasterHead" width="100%">
+</a>
 <h1 align="center">Fabrizio's Code</h1>
 <img align="right" alt="Coding" width="200" src="https://d33wubrfki0l68.cloudfront.net/23d4816944f8abdd7c8af2b694e4b32e93b9d985/9b991/images/ising.gif">
 
