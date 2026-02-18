@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="200" src="https://d33wubrfki0l68.cloudfront.net/23d4816944f8abdd7c8af2b694e4b32e93b9d985/9b991/images/ising.gif">
 
 
-I am Fabrizio M. Aymone, an Electronics Engineer and Researcher with a strong passion for AI, High-Performance Computing, and their application in quantitative fields. I recently graduated with honors from Politecnico di Milano and am pursuing an MSc in Electronic Engineering at ETH Zurich.
+I am Fabrizio M. Aymone, an Electronics Engineer and Researcher with a strong passion for AI, Power Systems, and their application in enabling the transition to net zero. I recently graduated with honors from Politecnico di Milano and am pursuing an MSc in Electronic Engineering at ETH Zurich.
 
 
 <h3 align="left">Connect with me:</h3>
