@@ -9,7 +9,6 @@
   <a href="https://scholar.google.com/citations?user=0hlTyR8AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-132%20citations-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://fabrizioaymone.github.io"><img src="https://img.shields.io/badge/Website-fabrizioaymone.github.io-222222?logo=githubpages&logoColor=white" alt="Website"></a>
   <a href="https://linkedin.com/in/fabrizio-maria-aymone"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:fabrizio.aymone@gmail.com"><img src="https://img.shields.io/badge/Email-fabrizio.aymone%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
