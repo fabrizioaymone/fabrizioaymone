@@ -1,21 +1,67 @@
-<a href="https://github.com/fabrizioaymone">
-  <img src="https://www.accademiasei.it/images/corsi/elettronica.jpg" alt="MasterHead" width="100%">
-</a>
-<h1 align="center">Fabrizio's Code</h1>
-<img align="right" alt="Coding" width="200" src="https://d33wubrfki0l68.cloudfront.net/23d4816944f8abdd7c8af2b694e4b32e93b9d985/9b991/images/ising.gif">
+<h1 align="center">Fabrizio M. Aymone</h1>
 
-
-I am Fabrizio M. Aymone, an Electronics Engineer and Researcher with a strong passion for AI, Power Systems, and their application in enabling the transition to net zero. I recently graduated with honors from Politecnico di Milano and am pursuing an MSc in Electronic Engineering at ETH Zurich.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fabrizio-maria-aymone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabrizio-maria-aymone" height="30" width="40" /></a>
+<p align="center">
+  <b>Efficient AI for edge hardware</b> · On-device learning · TinyML · AI accelerators<br>
+  MSc Electrical Engineering & Information Technology @ ETH Zurich
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=0hlTyR8AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-132%20citations-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://fabrizioaymone.github.io"><img src="https://img.shields.io/badge/Website-fabrizioaymone.github.io-222222?logo=githubpages&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/in/fabrizio-maria-aymone"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:fabrizio.aymone@gmail.com"><img src="https://img.shields.io/badge/Email-fabrizio.aymone%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabrizioaymone&show_icons=true&locale=en&layout=compact" alt="fabrizioaymone" /></p>
+---
 
-<p>&nbsp;<img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=fabrizioaymone&show_icons=true&locale=en" alt="fabrizioaymone" /></p>
+### 👋 About me
+
+I work on making neural networks **learn and run on tiny, memory-constrained devices**, from microcontrollers and smart sensors to in-memory-computing AI chips.
+
+- 🔬 **STMicroelectronics** (AI System Research, with Danilo Pau): proposed **MEMPEPITA**, a memory-efficient forward-only training rule, now a co-invented **US/EP patent application**; **8 peer-reviewed papers**, 132 citations, h-index 7
+- 🧩 **Synthara** (in-memory-computing AI chip startup): built the **Apache microTVM frontend** of the SDK
+- ⚙️ **Reply**: real-time anomaly detection firmware for ARM Cortex-M microcontrollers
+- 🎓 BSc Politecnico di Milano (110/110 cum laude) · MSc ETH Zurich (GPA 5.77/6)
+
+**Interests:** on-device & forward-only learning · quantization · hardware–software co-design · RISC-V · FPGA · ML compilers
+
+---
+
+### 📄 Selected publications
+
+- **Forward Learning of Large Language Models by Consumer Devices** — *MDPI Electronics*, 2024 · [paper](https://doi.org/10.3390/electronics13020402)
+  <br><sub>Forward-only training cuts activation memory by 50–94% for LLMs on edge devices.</sub>
+- **Benchmarking In-Sensor ML Computing: An Extension to the MLCommons-Tiny Suite** — *MDPI Information*, 2024 · first author · [paper](https://doi.org/10.3390/info15110674)
+- **Suitability of Forward-Forward and PEPITA Learning to MLCommons-Tiny Benchmarks** — *IEEE COINS*, 2023 · [paper](https://doi.org/10.1109/COINS57856.2023.10189239)
+- **TinyRCE: Multipurpose Forward Learning for Resource Restricted Devices** — *IEEE Sensors Letters*, 2023 · [paper](https://doi.org/10.1109/LSENS.2023.3307119)
+- **Patent:** Method and Device for On-Device Learning Based on Multiple Instances of Inference Workloads — US App. 18/779,807 · EP 4498284 A1 · [link](https://patents.google.com/patent/EP4498284A1)
+
+➡️ Full list on [Google Scholar](https://scholar.google.com/citations?user=0hlTyR8AAAAJ)
+
+---
+
+### 🛠️ Projects
+
+| Project | What it is |
+|---|---|
+| [**riscv-tflite**](https://github.com/fabrizioaymone/riscv-tflite) | TFLite Micro on RISC-V: MLCommons-Tiny models cross-compiled for RV32 and profiled on Spike and gem5 in-order/out-of-order cores |
+| [**cuda-smith-waterman**](https://github.com/fabrizioaymone/cuda-smith-waterman) | GPU sequence alignment in CUDA, parallelised along anti-diagonals with shared memory |
+| [**merge-sort-fpga**](https://github.com/fabrizioaymone/merge-sort-fpga) | AXI-Stream merge-sort IP for the PYNQ-Z2 FPGA, comparing tree, row and hybrid architectures |
+
+---
+
+### 🧰 Tools
+
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TFLite%20Micro-FF6F00?logo=tensorflow&logoColor=white)
+![Apache TVM](https://img.shields.io/badge/Apache%20TVM-1F1F1F?logo=apache&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog%20%2F%20VHDL-555555)
+![Xilinx Vivado](https://img.shields.io/badge/Vivado-E01F27?logo=amd&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?logo=riscv&logoColor=white)
+![ARM](https://img.shields.io/badge/Arm%20Cortex--M-0091BD?logo=arm&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
